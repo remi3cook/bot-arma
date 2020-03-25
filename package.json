@@ -1,0 +1,12 @@
+{
+  "name": "Dev",
+  "version": "0.1.0",
+  "description": "Projet Discord Arma",
+  "main": "main.js",
+  "repository": "https://github.com/remi3cook/bot-arma.git",
+  "author": "Dsb-Cyber <remi.3cook@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
